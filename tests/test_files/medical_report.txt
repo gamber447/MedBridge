@@ -1,0 +1,9 @@
+MEDBRIDGE TEST MEDICAL REPORT
+
+Case: MB-TEST-001
+
+Emergency: Neurological emergency
+
+Estimated treatment cost: £20000
+
+This is synthetic test data.
